@@ -1,0 +1,15 @@
+{
+  "name": "navigation-menu",
+  "version": "1.0.0",
+  "main": "textBoxChallenge.html",
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1 ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "description": ""
+}
